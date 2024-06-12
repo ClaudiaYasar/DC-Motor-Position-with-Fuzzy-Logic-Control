@@ -2,7 +2,8 @@
 
 This repository contains the curriculum materials used for the Intelligent Control Systems course YTU Department of Control and Automation Engineering.
 
-# DC-Motor-Position-with-Fuzzy-Logic-Control: a work done with the help of Res. Asst. Muhammet Ammar ŞAVVA
+# DC-Motor-Position-with-Fuzzy-Logic-Control
+# This is a work done with the help of Res. Asst. Muhammet Ammar ŞAVVA
 This tutorial demonstrates DC Motor position control using a fuzzy controller created with the Fuzzy Logic Toolbox, covering motor dynamics, PI control simulation parameters, fuzzy position controller design, and controller comparisons.
 
 ![image](https://github.com/ClaudiaYasar/DC-Motor-Position-with-Fuzzy-Logic-Control/assets/132692602/94ceb1e0-8d37-4f34-bae5-b51d158c71f7)
