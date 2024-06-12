@@ -6,7 +6,7 @@ This repository contains the curriculum materials used for the Intelligent Contr
 # This is a work done with the help of Res. Asst. Muhammet Ammar ŞAVVA
 This tutorial demonstrates DC Motor position control using a fuzzy controller created with the Fuzzy Logic Toolbox, covering motor dynamics, PI control simulation parameters, fuzzy position controller design, and controller comparisons.
 
-![image](https://github.com/ClaudiaYasar/DC-Motor-Position-with-Fuzzy-Logic-Control/assets/132692602/94ceb1e0-8d37-4f34-bae5-b51d158c71f7)
+![image](https://github.com/ClaudiaYasar/DC-Motor-Position-with-Fuzzy-Logic-Control/assets/132692602/4bbcf7cc-36cb-407c-bc9e-a9028196744b)
 
 # Acknowledgements
 
